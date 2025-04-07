@@ -1,4 +1,4 @@
-# X AI Pet 🥜
+# X AI Sucker 🥜
 
 <div align="center">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
@@ -8,11 +8,11 @@
 </div>
 
 ## Overview
-CA：0x66368b7D0146405dCF22dFE1F9D98CA61dFCd0dD
+CA:0x66368b7D0146405dCF22dFE1F9D98CA61dFCd0dD
 
-https://x.com/dog_fragrance
+TW:https://x.com/dog_fragrance
 
-X AI Pet is an intelligent agent-based system that automates interactions on X using AI-powered personas. It monitors mentions and replies to tweets with context-aware, persona-driven responses through advanced Large Language Model integration.
+X AI Sucker is an intelligent agent-based system that automates interactions on X using AI-powered personas. It monitors mentions and replies to tweets with context-aware, persona-driven responses through advanced Large Language Model integration.
 
 The system implements multiple AI personas (currently we implemented: CZ, Vitalik, Heyi) specializing in cryptocurrency topics while maintaining unique, consistent personalities. These personas can analyze conversations, filter out spam, and generate appropriate responses that match their character traits.
 
