@@ -9,6 +9,7 @@
 
 ## Overview
 CA：0x66368b7D0146405dCF22dFE1F9D98CA61dFCd0dD
+
 https://x.com/dog_fragrance
 
 X AI Pet is an intelligent agent-based system that automates interactions on X using AI-powered personas. It monitors mentions and replies to tweets with context-aware, persona-driven responses through advanced Large Language Model integration.
